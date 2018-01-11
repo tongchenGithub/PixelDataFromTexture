@@ -1,0 +1,23 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=462 outsize=817 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=442 outsize=817 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Multiply.compute(4): syntax error: unexpected token 'byte'
+  api=4 insize=677 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=681 outsize=901 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=744 outsize=885 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=459 outsize=849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=456 outsize=877 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=456 outsize=877 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=456 outsize=877 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=470 outsize=889 ok=1
